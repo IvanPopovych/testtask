@@ -1,0 +1,139 @@
+body{
+    background-color:#ffffff;
+}
+.navbar{
+    height:80px;
+    margin-bottom:0;
+}
+.navbar-header a img{
+    position:absolute;
+    left:0;
+    top:0;
+    height:80px;
+    width:293px;
+}
+#responsive-menu ul li:last-child a{
+    display:block;
+    border:1px solid #fdc300;
+    border-radius:35px;
+    padding:13px 68px;
+    color:#fdc300;
+}
+#responsive-menu{
+    margin-left:220px;
+    margin-top:14px;
+}
+#responsive-menu a{
+    text-transform: uppercase;
+    color:#ffffff;
+}
+#responsive-menu ul li{
+    margin-right:23pt;
+}
+.navbar-nav{
+    width:110%;
+}
+.item img{
+    width:100%;
+}
+#block1{
+    position:relative;
+}
+
+#block1 img{
+  width:100%;   
+}
+#buy a{
+    display:block;
+    width:280px;
+    border:1px solid #fdc300;
+    border-radius:35px;
+    padding:13px 71px;
+    color:#000;
+    background-color:#fdc300;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    position:absolute;
+    bottom:180px;
+    left:240px;
+}
+
+#instruction img{
+    width:977px;
+    height:700px;
+   
+}
+#instruction-img{
+    margin:0 auto;
+    width:977px;
+    height:700px;
+}
+#pm-65{
+    position:relative;
+}
+#pm-65 a{
+    position:absolute;
+    bottom:100px;
+    right:250px;
+}
+
+aside{
+    height:207px;
+    background-color:#1d1d1b;
+}
+#content{
+    width:80%;
+    margin:0 auto;
+    height: 50%;
+    
+}
+#content a{
+    display:block;
+    width:165px;
+    height:39px;
+    padding: 11px 11px;
+    border-radius:30px;
+    background-color: #fdc300;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#1d1d1b;
+    margin-right: 0;
+    float:right;
+    font-weight: bold;
+    margin-top:82px;
+}
+#content input{
+    border-radius: 30px;
+    height: 39px;
+    padding:10px 15px;
+    border:2px solid #fdc300;
+    margin-top:82px;
+}
+.text{
+    float:left;
+    color:#ffffff;
+    margin-top:70px;
+    margin-right:150px;
+}
+.text span{
+    font-size:20px;
+    font-weight: bold;
+    
+}
+.text p{
+    margin-top:10px;
+}
+
+#need{
+    margin:0 auto;
+    width:1058px;
+    height:700px;
+}
+
+#contact-img{
+    width:1170px;
+    height:351px;
+    margin-left:118px;
+}
+
